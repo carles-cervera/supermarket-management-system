@@ -2,6 +2,8 @@
 
 This repository contains the **complete technical and user documentation** of a
 Full Stack supermarket management system developed following **Software Engineering principles**.
+This repository includes the complete source code, build system (Gradle), executable JAR, and full documentation generated with Doxygen.
+
 
 ---
 
