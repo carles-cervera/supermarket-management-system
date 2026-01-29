@@ -1,0 +1,303 @@
+crear Inventari1
+configurar
+addProd Producto_1
+addProd Producto_2
+addProd Producto_3
+addProd Producto_4
+addProd Producto_5
+addProd Producto_6
+addProd Producto_7
+addProd Producto_8
+addProd Producto_9
+addProd Producto_10
+addProd Producto_11
+addProd Producto_12
+addProd Producto_13
+addProd Producto_14
+addProd Producto_15
+addProd Producto_16
+addProd Producto_17
+addProd Producto_18
+addProd Producto_19
+addProd Producto_20
+addProd Producto_21
+addProd Producto_22
+addProd Producto_23
+addProd Producto_24
+addProd Producto_25
+addProd Producto_26
+addProd Producto_27
+addProd Producto_28
+addProd Producto_29
+addProd Producto_30
+addProd Producto_31
+addProd Producto_32
+addProd Producto_33
+addProd Producto_34
+addProd Producto_35
+addProd Producto_36
+addProd Producto_37
+addProd Producto_38
+addProd Producto_39
+addProd Producto_40
+addProd Producto_41
+addProd Producto_42
+addProd Producto_43
+addProd Producto_44
+addProd Producto_45
+addProd Producto_46
+addProd Producto_47
+addProd Producto_48
+addProd Producto_49
+addProd Producto_50
+addProd Producto_51
+addProd Producto_52
+addProd Producto_53
+addProd Producto_54
+addProd Producto_55
+addProd Producto_56
+addProd Producto_57
+addProd Producto_58
+addProd Producto_59
+addProd Producto_60
+addProd Producto_61
+addProd Producto_62
+addProd Producto_63
+addProd Producto_64
+addProd Producto_65
+addProd Producto_66
+addProd Producto_67
+addProd Producto_68
+addProd Producto_69
+addProd Producto_70
+addProd Producto_71
+addProd Producto_72
+addProd Producto_73
+addProd Producto_74
+addProd Producto_75
+addProd Producto_76
+addProd Producto_77
+addProd Producto_78
+addProd Producto_79
+addProd Producto_80
+addProd Producto_81
+addProd Producto_82
+addProd Producto_83
+addProd Producto_84
+addProd Producto_85
+addProd Producto_86
+addProd Producto_87
+addProd Producto_88
+addProd Producto_89
+addProd Producto_90
+addProd Producto_91
+addProd Producto_92
+addProd Producto_93
+addProd Producto_94
+addProd Producto_95
+addProd Producto_96
+addProd Producto_97
+addProd Producto_98
+addProd Producto_99
+addProd Producto_100
+modRel Producto_9 Producto_81 83
+modRel Producto_81 Producto_88 25
+modRel Producto_96 Producto_9 25
+modRel Producto_8 Producto_32 23
+modRel Producto_18 Producto_1 99
+modRel Producto_81 Producto_58 66
+modRel Producto_61 Producto_43 26
+modRel Producto_55 Producto_93 34
+modRel Producto_49 Producto_87 14
+modRel Producto_99 Producto_46 2
+modRel Producto_99 Producto_44 29
+modRel Producto_48 Producto_75 64
+modRel Producto_66 Producto_59 83
+modRel Producto_38 Producto_7 77
+modRel Producto_69 Producto_95 32
+modRel Producto_22 Producto_8 56
+modRel Producto_14 Producto_27 57
+modRel Producto_58 Producto_4 58
+modRel Producto_1 Producto_67 22
+modRel Producto_100 Producto_54 54
+modRel Producto_46 Producto_47 12
+modRel Producto_78 Producto_99 25
+modRel Producto_32 Producto_19 19
+modRel Producto_66 Producto_79 50
+modRel Producto_1 Producto_21 73
+modRel Producto_63 Producto_30 8
+modRel Producto_32 Producto_7 91
+modRel Producto_99 Producto_62 53
+modRel Producto_98 Producto_11 12
+modRel Producto_53 Producto_91 26
+modRel Producto_10 Producto_87 23
+modRel Producto_59 Producto_90 41
+modRel Producto_17 Producto_26 93
+modRel Producto_48 Producto_10 67
+modRel Producto_1 Producto_34 65
+modRel Producto_36 Producto_22 71
+modRel Producto_77 Producto_28 38
+modRel Producto_98 Producto_68 81
+modRel Producto_69 Producto_92 90
+modRel Producto_29 Producto_72 4
+modRel Producto_27 Producto_71 65
+modRel Producto_94 Producto_23 47
+modRel Producto_48 Producto_100 57
+modRel Producto_26 Producto_91 77
+modRel Producto_45 Producto_90 33
+modRel Producto_47 Producto_90 15
+modRel Producto_19 Producto_96 58
+modRel Producto_55 Producto_98 20
+modRel Producto_41 Producto_95 86
+modRel Producto_74 Producto_57 14
+modRel Producto_95 Producto_13 71
+modRel Producto_82 Producto_24 81
+modRel Producto_57 Producto_5 22
+modRel Producto_62 Producto_84 5
+modRel Producto_1 Producto_46 37
+modRel Producto_46 Producto_32 13
+modRel Producto_23 Producto_89 48
+modRel Producto_5 Producto_48 43
+modRel Producto_27 Producto_57 90
+modRel Producto_63 Producto_87 38
+modRel Producto_47 Producto_91 88
+modRel Producto_37 Producto_46 2
+modRel Producto_72 Producto_11 52
+modRel Producto_2 Producto_40 83
+modRel Producto_41 Producto_53 66
+modRel Producto_45 Producto_44 13
+modRel Producto_100 Producto_9 32
+modRel Producto_70 Producto_56 62
+modRel Producto_27 Producto_34 18
+modRel Producto_8 Producto_46 66
+modRel Producto_37 Producto_14 36
+modRel Producto_4 Producto_75 28
+modRel Producto_62 Producto_7 83
+modRel Producto_40 Producto_61 89
+modRel Producto_49 Producto_33 35
+modRel Producto_53 Producto_75 91
+modRel Producto_68 Producto_88 82
+modRel Producto_98 Producto_22 35
+modRel Producto_100 Producto_76 89
+modRel Producto_54 Producto_27 52
+modRel Producto_80 Producto_78 66
+modRel Producto_25 Producto_23 88
+modRel Producto_49 Producto_77 44
+modRel Producto_43 Producto_9 67
+modRel Producto_85 Producto_28 78
+modRel Producto_77 Producto_10 19
+modRel Producto_25 Producto_42 4
+modRel Producto_81 Producto_86 13
+modRel Producto_15 Producto_88 59
+modRel Producto_94 Producto_51 89
+modRel Producto_75 Producto_92 21
+modRel Producto_17 Producto_27 34
+modRel Producto_22 Producto_94 76
+modRel Producto_65 Producto_81 99
+modRel Producto_74 Producto_26 20
+modRel Producto_83 Producto_62 32
+modRel Producto_49 Producto_30 39
+modRel Producto_67 Producto_29 49
+modRel Producto_55 Producto_95 12
+modRel Producto_26 Producto_94 2
+modRel Producto_79 Producto_52 24
+modRel Producto_39 Producto_14 27
+modRel Producto_10 Producto_82 93
+modRel Producto_95 Producto_17 43
+modRel Producto_55 Producto_18 63
+modRel Producto_53 Producto_18 81
+modRel Producto_10 Producto_31 91
+modRel Producto_94 Producto_80 13
+modRel Producto_30 Producto_42 14
+modRel Producto_49 Producto_95 71
+modRel Producto_81 Producto_38 21
+modRel Producto_69 Producto_47 45
+modRel Producto_97 Producto_49 71
+modRel Producto_34 Producto_63 61
+modRel Producto_22 Producto_67 12
+modRel Producto_2 Producto_43 3
+modRel Producto_63 Producto_36 63
+modRel Producto_82 Producto_16 65
+modRel Producto_78 Producto_53 36
+modRel Producto_28 Producto_7 57
+modRel Producto_91 Producto_81 74
+modRel Producto_23 Producto_51 31
+modRel Producto_30 Producto_14 67
+modRel Producto_52 Producto_68 60
+modRel Producto_84 Producto_61 2
+modRel Producto_45 Producto_24 9
+modRel Producto_2 Producto_98 67
+modRel Producto_94 Producto_45 5
+modRel Producto_39 Producto_75 85
+modRel Producto_26 Producto_90 11
+modRel Producto_4 Producto_12 12
+modRel Producto_10 Producto_23 33
+modRel Producto_20 Producto_67 38
+modRel Producto_99 Producto_27 40
+modRel Producto_32 Producto_35 14
+modRel Producto_17 Producto_64 62
+modRel Producto_19 Producto_36 27
+modRel Producto_55 Producto_56 44
+modRel Producto_39 Producto_79 86
+modRel Producto_33 Producto_45 17
+modRel Producto_36 Producto_31 72
+modRel Producto_35 Producto_10 9
+modRel Producto_72 Producto_30 16
+modRel Producto_34 Producto_18 8
+modRel Producto_54 Producto_89 19
+modRel Producto_68 Producto_60 8
+modRel Producto_21 Producto_64 80
+modRel Producto_24 Producto_90 10
+modRel Producto_65 Producto_70 76
+modRel Producto_20 Producto_76 71
+modRel Producto_33 Producto_99 29
+modRel Producto_13 Producto_64 20
+modRel Producto_10 Producto_43 36
+modRel Producto_1 Producto_30 37
+modRel Producto_34 Producto_74 29
+modRel Producto_34 Producto_28 61
+modRel Producto_43 Producto_91 88
+modRel Producto_91 Producto_67 45
+modRel Producto_89 Producto_87 42
+modRel Producto_30 Producto_93 99
+modRel Producto_29 Producto_67 35
+modRel Producto_69 Producto_14 9
+modRel Producto_29 Producto_64 22
+modRel Producto_95 Producto_25 81
+modRel Producto_83 Producto_77 90
+modRel Producto_50 Producto_41 57
+modRel Producto_36 Producto_25 81
+modRel Producto_89 Producto_93 65
+modRel Producto_46 Producto_56 55
+modRel Producto_19 Producto_87 64
+modRel Producto_95 Producto_37 64
+modRel Producto_20 Producto_35 15
+modRel Producto_74 Producto_45 9
+modRel Producto_57 Producto_32 4
+modRel Producto_34 Producto_31 83
+modRel Producto_38 Producto_19 39
+modRel Producto_82 Producto_25 83
+modRel Producto_39 Producto_31 43
+modRel Producto_40 Producto_38 73
+modRel Producto_50 Producto_84 96
+modRel Producto_19 Producto_73 37
+modRel Producto_2 Producto_41 4
+modRel Producto_18 Producto_65 4
+modRel Producto_17 Producto_47 5
+modRel Producto_3 Producto_31 89
+modRel Producto_3 Producto_45 39
+modRel Producto_50 Producto_36 20
+modRel Producto_46 Producto_37 62
+modRel Producto_6 Producto_21 72
+modRel Producto_60 Producto_62 99
+modRel Producto_40 Producto_6 65
+modRel Producto_13 Producto_78 68
+modRel Producto_77 Producto_61 44
+modRel Producto_59 Producto_49 47
+modRel Producto_23 Producto_20 32
+modRel Producto_48 Producto_1 95
+modRel Producto_38 Producto_53 51
+modRel Producto_30 Producto_6 64
+modRel Producto_46 Producto_24 3
+modRel Producto_72 Producto_39 47
+guardarInventari
