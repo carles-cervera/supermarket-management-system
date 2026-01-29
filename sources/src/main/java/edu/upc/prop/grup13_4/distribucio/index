@@ -1,0 +1,7 @@
+Aquest Directori conte els següents fitxers:
+	Distribucio:
+		Aquesta es la classe Distribucio, que conte informació d'una distribució.
+	CtrlDistribucio:
+		Aquesta es la classe del Controlador de Distribucio. La seva funcio es controlar les creacions i modificacions que es relaitzen sobre les distribucions.
+	DriverCtrlDistribucio:
+		Aquesta classe, serveix per provar les funcions del Controlador de Distribucio.

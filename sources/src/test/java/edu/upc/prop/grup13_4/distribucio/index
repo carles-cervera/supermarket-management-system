@@ -1,0 +1,5 @@
+Aquest directori conte:
+    CtrlDistribucioTest:
+        Aquesta classe, son els tests del Controlador de Distribucio
+    DistribucioTest:
+        Aquesta classe, son els tests de la classe Distribucio

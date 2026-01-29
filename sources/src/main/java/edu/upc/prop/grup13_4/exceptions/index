@@ -1,0 +1,9 @@
+Aquest Directori conte els següents fitxers:
+	Algoritme:
+		Aquesta es la classe Algoritme, que conte el algoritme aproximat i de backtracking per calcular una distribucio
+		de productes
+	CtrlAlgoritme:
+		Aquesta es la classe del Controlador de l'Algoritme. La seva funcio es, utilitzant un dels algoritmes,
+		obtenir a partir de un inventari una distribucio dels productes valida.
+	DriverCtrlAlgoritme:
+		Aquesta classe, serveix per provar les funcions del Controlador de l'Algoritme.

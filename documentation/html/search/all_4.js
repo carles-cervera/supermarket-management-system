@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['algoritme_0',['algoritme',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1algoritme.html',1,'edu.upc.prop.grup13_4.algoritme'],['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1exceptions_1_1algoritme.html',1,'edu.upc.prop.grup13_4.exceptions.algoritme']]],
+  ['assets_1',['assets',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio_1_1assets.html',1,'edu::upc::prop::grup13_4::presentacio']]],
+  ['dialogs_2',['dialogs',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio_1_1dialogs.html',1,'edu::upc::prop::grup13_4::presentacio']]],
+  ['distribucio_3',['distribucio',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1distribucio.html',1,'edu.upc.prop.grup13_4.distribucio'],['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1exceptions_1_1distribucio.html',1,'edu.upc.prop.grup13_4.exceptions.distribucio']]],
+  ['domini_4',['domini',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1domini.html',1,'edu::upc::prop::grup13_4']]],
+  ['eliminarbutton_5',['eliminarButton',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio_1_1views_1_1_distribucio.html#a16caec1a877311e684e9c751e8f0bb31',1,'edu::upc::prop::grup13_4::presentacio::views::Distribucio']]],
+  ['eliminardistribuciobutton_6',['eliminarDistribucioButton',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio_1_1views_1_1_distribucio.html#aa277877e51b9bbdf311741b04957fec9',1,'edu::upc::prop::grup13_4::presentacio::views::Distribucio']]],
+  ['eliminarinventari_7',['eliminarInventari',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1domini_1_1_ctrl_domini.html#a7c931a899efdadf30ced7b858c07ed2e',1,'edu::upc::prop::grup13_4::domini::CtrlDomini']]],
+  ['eliminarperfilbutton_8',['eliminarPerfilButton',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio_1_1views_1_1_configuracio_perfil_panel.html#a9cbff270fbc3dc0b4eeca5ed5f14a70a',1,'edu::upc::prop::grup13_4::presentacio::views::ConfiguracioPerfilPanel']]],
+  ['eliminarproducte_9',['eliminarProducte',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1domini_1_1_ctrl_domini.html#a2d9cb014d577b936e671a2008cc7500c',1,'edu.upc.prop.grup13_4.domini.CtrlDomini.eliminarProducte()'],['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1inventari_1_1_inventari.html#a7402e551fcf0beacb5ea42a624482e45',1,'edu.upc.prop.grup13_4.inventari.Inventari.eliminarProducte()']]],
+  ['eliminarproductetest_10',['eliminarProducteTest',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1inventari_1_1_inventari_parser.html#ad1432299f15b93ec4648256fb2297877',1,'edu::upc::prop::grup13_4::inventari::InventariParser']]],
+  ['equals_11',['equals',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1inventari_1_1_producte.html#a3bcf37365eb470c765b29751a4da9757',1,'edu.upc.prop.grup13_4.inventari.Producte.equals()'],['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1inventari_1_1_relacio.html#ac2e965c70029e89a77da6bdb046ba84c',1,'edu.upc.prop.grup13_4.inventari.Relacio.equals()']]],
+  ['erasebutton_12',['eraseButton',['../classedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio_1_1views_1_1_inventari_panel.html#a70fbe38e8d4d725d1a43c18505b6f5e5',1,'edu::upc::prop::grup13_4::presentacio::views::InventariPanel']]],
+  ['grup13_5f4_13',['grup13_4',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4.html',1,'edu::upc::prop']]],
+  ['inventari_14',['inventari',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1exceptions_1_1inventari.html',1,'edu.upc.prop.grup13_4.exceptions.inventari'],['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1inventari.html',1,'edu.upc.prop.grup13_4.inventari']]],
+  ['perfil_15',['perfil',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1exceptions_1_1perfil.html',1,'edu.upc.prop.grup13_4.exceptions.perfil'],['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1perfil.html',1,'edu.upc.prop.grup13_4.perfil']]],
+  ['persistencia_16',['persistencia',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1persistencia.html',1,'edu::upc::prop::grup13_4']]],
+  ['presentacio_17',['presentacio',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio.html',1,'edu::upc::prop::grup13_4']]],
+  ['utils_18',['utils',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1utils.html',1,'edu::upc::prop::grup13_4']]],
+  ['views_19',['views',['../namespaceedu_1_1upc_1_1prop_1_1grup13__4_1_1presentacio_1_1views.html',1,'edu::upc::prop::grup13_4::presentacio']]]
+];

@@ -1,0 +1,13 @@
+Aquest Directori conte els següents fitxers:
+	ConjuntProductes:
+		Aquesta es la classe ConjuntProductes, que conte informacio d'un Conjunt de Productes.
+	CtrlInventari:
+		Aquesta es la classe del Controlador de Inventari. La seva funcio es controlar les creacions i modificacions que es relaitzen sobre els inventaris.
+	DriverCtrlInventari:
+		Aquesta classe, serveix per provar les funcions del Controlador de Inventari.
+	Inventari:
+	    Aquesta es la classe Inventari, que conte informacio d'un Inventari
+	Producte:
+	    Aquesta es la classe Producte, que conte informacio d'un Producte
+	Relacio:
+	    Aquesta es la classe Relacio, que conte informacio d'un Relacio

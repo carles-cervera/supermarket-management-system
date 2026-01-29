@@ -1,0 +1,68 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group = 'edu.upc.prop.grup13_4'
+version = '1.0-SNAPSHOT'
+
+ext {
+    javaMainClass = 'edu.upc.prop.grup13_4.Main'
+}
+
+application {
+    mainClassName = javaMainClass
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': javaMainClass
+    }
+}
+
+// Apply a specific Java toolchain to ease working on different environments.
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(22)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // this is just an example of importing an external library, you do not need to use it in your project
+    implementation 'com.google.code.gson:gson:2.8.9'
+    testImplementation('junit:junit:4.13.1')
+}
+
+task generateDocs(type: Exec) {
+    description = 'Genenerate Documentation using Doxygen'
+    group = 'Documentation'
+    commandLine 'doxygen', 'Doxyfile'
+}
+
+task jarFreshMarkt(type: Jar) {
+    group = 'Build'
+    description = 'Creates an executable JAR for the project including all classes and dependencies.'
+    archiveBaseName.set('FreshMarkt')
+    destinationDirectory.set(file("$buildDir/libs")) // Carpeta de destino del JAR
+
+    // Incluir clases y recursos del proyecto desde src/main
+    from(sourceSets.main.output) {
+        include '**/*' // Incluye todo el contenido de src/main
+    }
+
+    // Incluir dependencias en tiempo de ejecución
+    dependsOn configurations.runtimeClasspath
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+
+    // Configurar la clase principal
+    manifest {
+        attributes 'Main-Class': 'edu.upc.prop.grup13_4.presentacio.MainFrame'
+    }
+}
+

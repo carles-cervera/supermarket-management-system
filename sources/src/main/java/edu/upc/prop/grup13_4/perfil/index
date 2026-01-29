@@ -1,0 +1,7 @@
+Aquest Directori conte els següents fitxers:
+	Perfil:
+		Aquesta es la classe Perfil, que conte informació d'un Perfil.
+	CtrlPerfil:
+		Aquesta es la classe del Controlador de Perfil. La seva funcio es controlar les creacions i modificacions que es relaitzen sobre els perfils.
+	DriverCtrlPerfil:
+		Aquesta classe, serveix per provar les funcions del Controlador de Distribucio.

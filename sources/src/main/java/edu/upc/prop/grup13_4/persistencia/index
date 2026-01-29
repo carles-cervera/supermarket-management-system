@@ -1,0 +1,3 @@
+Aquest directori conte:
+    CtrlPersistencia:
+        Aquesta es la classe del Controlador de Persistencia, que emmagatzema les estructures creades pel domini
